@@ -11,3 +11,4 @@ int main(){
 	}
 	printf("\nO valor da Soma eh %d\n",soma);
 }
+

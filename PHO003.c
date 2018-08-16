@@ -8,8 +8,9 @@ int main(){
 	int i = 0,maior=0,menor=0;
 	
 	for (i=7;i>=0;i--){
-		printf("%.1f\t",n[i]);
+		//printf("%.1f\t",n[i]);
 			
 	}
 	
 }
+
