@@ -13,11 +13,6 @@ int main(){
 	
 	int i=0,j=0,k=0,l=0;
 	
-	//printf("Digite o ponto de interesse:  ");
-	//scanf("%c",&ponto);
-	
-	//printf("Digite o valor das coordenadas de %d e %d do ponto %c: ",x,y);
-	
 	printf("\nDigite o valor das coordenadas X e Y do ponto A e B respectivamente:\n");
 	
 	for(x=0;x<2;x++){
